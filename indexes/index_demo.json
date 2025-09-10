@@ -1,0 +1,37 @@
+[
+  {
+    "id": "4acbca58-f039-4818-90c5-3c5f8081b820",
+    "text": "KPI: Year\nTotal: 121320.0\nAverage: 2022.0\nFirst: 2020.0\nLast: 2024.0\nGrowth%: 0.2",
+    "meta": {
+      "column": "Year"
+    }
+  },
+  {
+    "id": "2d5cddbe-4811-4604-9439-dcd87157c3fe",
+    "text": "KPI: Revenue\nTotal: 8472557.0\nAverage: 141209.28333333333\nFirst: 95795.0\nLast: 123001.0\nGrowth%: 28.4",
+    "meta": {
+      "column": "Revenue"
+    }
+  },
+  {
+    "id": "3d8a8483-c049-4741-99b5-28f7ef5b943f",
+    "text": "KPI: Profit\nTotal: 2725645.0\nAverage: 45427.416666666664\nFirst: 33897.0\nLast: 62992.0\nGrowth%: 85.83",
+    "meta": {
+      "column": "Profit"
+    }
+  },
+  {
+    "id": "502e442b-3402-4e8d-adf3-6ca369268add",
+    "text": "KPI: Customers\nTotal: 184993.0\nAverage: 3083.2166666666667\nFirst: 2028.0\nLast: 3237.0\nGrowth%: 59.62",
+    "meta": {
+      "column": "Customers"
+    }
+  },
+  {
+    "id": "d563e117-9e5c-4089-9b2b-3038011d9a38",
+    "text": "KPI: ChurnRate\nTotal: 3.039\nAverage: 0.05065\nFirst: 0.02\nLast: 0.093\nGrowth%: 365.0",
+    "meta": {
+      "column": "ChurnRate"
+    }
+  }
+]

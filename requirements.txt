@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+openai
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-core
+pandas
+openpyxl
+faiss-cpu
+chromadb
+tqdm
+requests
+python-multipart
+numpy

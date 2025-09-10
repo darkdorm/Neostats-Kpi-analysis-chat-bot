@@ -1,0 +1,6 @@
+base="light"                         # Keep the app in light mode
+primaryColor="#2563EB"               # Main accent color (buttons, sliders)
+backgroundColor="#F9FAFB"            # Main app background
+secondaryBackgroundColor="#FFFFFF"   # Sidebar / panels background
+textColor="#111827"                  # Default text color
+font="sans serif"                     # Global font
