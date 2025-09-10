@@ -13,3 +13,4 @@ tqdm
 requests
 python-multipart
 numpy
+reportlab>=3.6.12
