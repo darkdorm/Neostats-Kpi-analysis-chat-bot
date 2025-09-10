@@ -14,3 +14,10 @@ requests
 python-multipart
 numpy
 reportlab>=3.6.12
+plotly
+prophet
+sqlalchemy
+psycopg2-binary
+openai
+groq
+
